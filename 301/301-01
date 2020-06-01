@@ -1,0 +1,13 @@
+# Intro to RWD
+
+## Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop.
+## RWD is broken down into three main components:
+  1. **Flexible Layouts**- The practice of building the layour of a website with a flexible grid, capable of dynamically resizing to any width. Built using lemgth units, most commonly percentages or *em* units.
+  1. **Media Queries**- Provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation for example. Logical operators in media queries help build powerful expressions. There are three different ones. And, not, and only. 
+  1. **Flexible Media**- Helps images, videos and other media types be ascalable, changing their size as the size of the viewport changes.
+
+  # All about floats
+
+  ## Float is a CSS positioning property. 
+  * Floats are used to create entire web layouts.
+  * Floats ister property is `clear`. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
