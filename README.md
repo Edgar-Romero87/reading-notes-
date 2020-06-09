@@ -5,6 +5,11 @@ Notes for reading in Code Fellows courses.
 ## [201](201) - *Foundations of Software Development*
 ## [301](301) - **Intermediate Software Devlopment**
   ### [301 Reading 1](301/301-01.md)
+  ### [301 Reading 2](301/301-02.md)
+  ### [301 Reading 3](301/301-03.md)
+  ### [301 Reading 4](301/301-04.md)
+  ### [301 Reading 5](301/301-05.md)
   ### [301 Reading 6](301/301-06.md)
+  ### [301 Reading 7](301/301-07.md)
 ## [401](401) - *Advanced Software Devlopment*
 
