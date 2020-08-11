@@ -15,5 +15,8 @@ Notes for reading in Code Fellows courses.
   ### [301 Reading 9](301/301-09.md)
   ### [301 Reading 10](301/301-10.md)
   ### [301 Reading 11](301/301-11.md)
-## [401](401) - *Advanced Software Devlopment*
+## 401 Advanced Software Devlopment*
 
+### [401 Reading 00](401/401-00.md) 
+### [401 Reading 01](401/401-01.md)
+### [401 Reading 02](401/401-02.md)
