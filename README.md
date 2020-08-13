@@ -20,3 +20,4 @@ Notes for reading in Code Fellows courses.
 ### [401 Reading 00](401/401-00.md) 
 ### [401 Reading 01](401/401-01.md)
 ### [401 Reading 02](401/401-02.md)
+### [401 Reading 03](401/401-03.md)
