@@ -37,3 +37,4 @@ Notes for reading in Code Fellows courses.
 ### [401 Reading 17](401/401-17.md)
 ### [401 Reading 19](401/401-19.md)
 ### [401 Reading 26](401/401-26.md)
+### [401 Reading 27](401/401-27.md)
