@@ -40,3 +40,4 @@ Notes for reading in Code Fellows courses.
 ### [401 Reading 27](401/401-27.md)
 ### [401 Reading 28](401/401-28.md)
 ### [401 Reading 29](401/401-29.md)
+### [Hash Tables](401/401-30.md)
