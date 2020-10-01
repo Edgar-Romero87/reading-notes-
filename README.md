@@ -48,3 +48,4 @@ Notes for reading in Code Fellows courses.
 ### [Graphs](401/401-35.md)
 ### [401 Reading 36](401/401-36.md)
 ### [401 Reading 37](401/401-37.md)
+### [401 Reading 38](401/401-38.md)
